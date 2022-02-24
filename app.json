@@ -7,7 +7,7 @@
         "merge",
         "bot"
     ],
-    "repository": "https://github.com/PredatorHackerzZ/Video-Merger_Bot",
+    "repository": "https://github.com/rv999456/Video-Merger_Bot",
     "website": "https://telegram.dog/TheTeleRoid",
     "success_url": "https://t.me/TeleRoid_VideoMergeBot",
     "env": {
